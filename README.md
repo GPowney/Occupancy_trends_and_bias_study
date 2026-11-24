@@ -1,3 +1,3 @@
 # Occupancy Trends and Bias Study
 
-This repository contains the scripts to produce the results, tables, and figures for our occupancy trends and bias study.
+This repository contains the scripts to produce the results, tables, and figures for our occupancy trends and bias study. The core scripts can be found with the 'r_scripts' folder. The occupancy model was run on JASMIN via the [Occupancy detection model Function](R/occDetFunc.r) function in the [Sparta](https://github.com/BiologicalRecordsCentre/sparta/tree/master) R package. We do not have permission to share the data used in this analyses. However data are available on request from the various schemes and societies listed on the BRC website [https://www.brc.ac.uk/](https://www.brc.ac.uk/)
